@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singhmansi25
+- 👋 Hi, I’m Mansi Singh.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python and DSA
 - 💞️ I’m looking to collaborate on LGM-SOC'21 as a Participant
