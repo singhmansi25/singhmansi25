@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mansi Singh.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python(NLP and Deep Learning) and DSA
+- 👩‍💻 I've contributed in Hacktoberfest-2k21 and LetsGrowMore SOC'21.
 - 💞️ I’m looking to collaborate on GWOC'21 as a Participant
 - 👩‍🎓 A Volunteer( AI-ML ) at Google Developer Student Club-LPU
 - 👩‍💻 A Volunteer at Women Who Code(Python Track) 
