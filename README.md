@@ -1,7 +1,8 @@
 ![HolaHelloGIF](https://user-images.githubusercontent.com/76874762/143575398-7f6a9561-5692-4ece-a8d3-390b598ec213.gif)
 
 ## Hello there, I’m Mansi Singh.
-[LinkedIn](https://www.linkedin.com/in/mansi-s-2137b3207) [Github](https://github.com/singhmansi25) [Blog](https://medium.com/@smparihar25) [HackerRank](https://www.hackerrank.com/smparihar25)
+### Connect with me 🤝
+[<img src="https://github.com/singhmansi25/singhmansi25/blob/main/Images/icons8-linkedin-circled.gif">](https://www.linkedin.com/in/mansi-s-2137b3207) [<img width="125" src="https://github.com/singhmansi25/singhmansi25/blob/main/Images/icons8-github.svg">](https://github.com/singhmansi25) [<img width="125"  src="https://github.com/singhmansi25/singhmansi25/blob/main/Images/icons8-medium-monogram.svg">](https://medium.com/@smparihar25) [<img width="125" src="https://github.com/singhmansi25/singhmansi25/blob/main/Images/icons8-hackerrank.svg">](https://www.hackerrank.com/smparihar25)
 - 👀 I’m interested in coding
 
 - 🌱 I’m currently learning Python(NLP and Deep Learning) and DSA
@@ -12,7 +13,7 @@
 ](https://www.linkedin.com/in/mansi-s-2137b3207)
 - 🤝 Follow me on Github : [<img width="50" alt="logo_git" src="https://user-images.githubusercontent.com/76874762/143579163-a1ca26fc-8dee-466e-8cf5-4b626cc6ab29.png">
 ](https://github.com/singhmansi25)
-- 👩‍💻 Read my blogs at : [Ⓜ️](https://medium.com/@smparihar25)
+- 👩‍💻 Read my blogs at : [<img width="50" src="https://github.com/singhmansi25/singhmansi25/blob/main/Images/icons8-medium-monogram.svg">](https://medium.com/@smparihar25)
 
 [![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=singhmansi25)](https://git.io/J1Ycx)
 
