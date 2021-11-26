@@ -1,7 +1,7 @@
 ![HolaHelloGIF](https://user-images.githubusercontent.com/76874762/143575398-7f6a9561-5692-4ece-a8d3-390b598ec213.gif)
 
 ## Hello there, I’m Mansi Singh.
-
+[LinkedIn](https://www.linkedin.com/in/mansi-s-2137b3207) [Github](https://github.com/singhmansi25) [Blog](https://medium.com/@smparihar25) [HackerRank](https://www.hackerrank.com/smparihar25)
 - 👀 I’m interested in coding
 
 - 🌱 I’m currently learning Python(NLP and Deep Learning) and DSA
