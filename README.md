@@ -1,4 +1,6 @@
-![HolaHelloGIF](https://user-images.githubusercontent.com/76874762/143575398-7f6a9561-5692-4ece-a8d3-390b598ec213.gif)
+
+![HelloHiGIF](https://user-images.githubusercontent.com/76874762/149950902-dad49d2f-1b45-4ce0-b414-ad67470049b6.gif)
+
 
 ## Hello there, I’m Mansi Singh.
 ### Connect with me 🤝
