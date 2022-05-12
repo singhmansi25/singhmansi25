@@ -4,7 +4,6 @@
 
 
 
-## Hello there, I’m Mansi Singh.
 ### Connect with me 🤝
 [<img src="https://github.com/singhmansi25/singhmansi25/blob/main/Images/icons8-linkedin-circled.gif">](https://www.linkedin.com/in/mansi-s-2137b3207) [<img width="125" src="https://github.com/singhmansi25/singhmansi25/blob/main/Images/icons8-github.svg">](https://github.com/singhmansi25) [<img width="125"  src="https://github.com/singhmansi25/singhmansi25/blob/main/Images/icons8-medium-monogram.svg">](https://medium.com/@smparihar25) [<img width="125" src="https://github.com/singhmansi25/singhmansi25/blob/main/Images/icons8-hackerrank.svg">](https://www.hackerrank.com/smparihar25)
 - 👀 I’m interested in coding
