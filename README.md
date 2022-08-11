@@ -1,7 +1,4 @@
-
-![ConyBrownGIF](https://user-images.githubusercontent.com/76874762/168119938-2273ce5b-a95e-4c81-bca3-9d8dbd025ba9.gif)
-
-
+![CodingAnimeGIF](https://user-images.githubusercontent.com/76874762/184195400-b1532130-711c-495f-860c-62ccee962b97.gif)
 
 
 ### Connect with me 🤝
