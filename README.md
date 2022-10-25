@@ -1,4 +1,4 @@
-![CodingAnimeGIF](https://user-images.githubusercontent.com/76874762/184195400-b1532130-711c-495f-860c-62ccee962b97.gif)
+![WelcomeGIF](https://user-images.githubusercontent.com/76874762/197769908-aefb84c7-9d1b-4f6b-a239-9ad545b6baf2.gif)
 
 
 ### Connect with me 🤝
@@ -6,8 +6,9 @@
 - 👀 I’m interested in coding
 
 - 🌱 I’m currently learning Python(NLP and Deep Learning) and DSA
-- 👩‍💻 Contributed in Hacktoberfest-2k21, LetsGrowMore SOC'21 and GirlScriptWinterofContribution'21.
-- 👩‍🎓 A Volunteer( AI-ML ) at Google Developer Student Club-LPU
+- 📍 Mentored open source contributors in GirlScript Foundation Summer of Code (GSSoC'22).
+- 👩‍💻 Contributed in Hacktoberfest-2k22 and 2k21, LetsGrowMore SOC'21 and GirlScriptWinterofContribution'21.
+- 👩‍🎓 Women Techmakers Lead at Google Developer Student Club-LPU
 - 👩‍💻 A Volunteer at Women Who Code(Python Track) 
 - 📫 How to reach me : My Linkedin id : [<img width="50" alt="logo" src="https://user-images.githubusercontent.com/76874762/143578518-1f200bc0-007d-400d-a8f7-3c08aea83c31.png">
 ](https://www.linkedin.com/in/mansi-s-2137b3207)
